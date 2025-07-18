@@ -1,0 +1,30 @@
+# Ignore virtual environments
+myenv/
+env/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore models and pickled files (optional)
+*.pkl
+*.pickle
+*.h5
+*.p
+
+# Ignore Jupyter notebook checkpoints (if using)
+.ipynb_checkpoints/
