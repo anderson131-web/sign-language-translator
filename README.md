@@ -1,4 +1,4 @@
-# 🧠 Sign Language Translator 🤟
+#  Sign Language Translator 🤟
 
 This desktop software uses real-time technology to detect hand signs which then converts into spoken words and translations across different  languages. The application combines Python programming with OpenCV along with fundamental machine learning model structures.
 
@@ -45,3 +45,5 @@ cd sign-language-translator
 pip install -r requirements.txt
 
 python inference_classifier.py
+-------------------------------------------
+*Note: Always note the path if anything changes do remember to change the path Enjoy:)
