@@ -8,9 +8,9 @@ This project was developed by a team of four:
 
 2)Alfred Santhosh
 
-3)Franklinn V Jose
+3)Franklin V Jose
 
-4)K. Rohit
+4)K.Rohit
 
 
 ---
@@ -56,4 +56,5 @@ pip install -r requirements.txt
 python inference_classifier.py
 -------------------------------------------
 *Note: Always note the path if anything changes do remember to change the path Enjoy:)
+
 
