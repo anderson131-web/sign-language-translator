@@ -2,6 +2,15 @@
 
 This desktop software uses real-time technology to detect hand signs which then converts into spoken words and translations across different  languages. The application combines Python programming with OpenCV along with fundamental machine learning model structures.
 
+This project was developed by a team of four:
+
+1)Anderson Abraham
+
+2)Alfred Santhosh
+
+3)Franklinn V Jose
+
+4)K. Rohit
 
 
 ---
@@ -47,3 +56,4 @@ pip install -r requirements.txt
 python inference_classifier.py
 -------------------------------------------
 *Note: Always note the path if anything changes do remember to change the path Enjoy:)
+
